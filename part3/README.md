@@ -1,9 +1,10 @@
 # 3rd Tutorial Session
     
-## Description: For Part3 you will create an html form to allow the suer to submit an integer value rather than using the URL paramater as you did in Part2. 
+## Description: 
+For Part3 you will create an html form to allow the suer to submit an integer value rather than using the URL paramater as you did in Part2. 
    
 
-    How to run this app:
+##How to run this app:
     Option 1:
     
 
