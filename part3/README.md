@@ -9,7 +9,6 @@ For Part3 you will create an html form to allow the suer to submit an integer va
 ```
 Option 1:
 
-
 1. Starting your web application -> From the menu on the top click 'Window' and then click 'New Terminal'
 2. Go the directory where the run.py file is
 3. Type: python run.py

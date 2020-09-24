@@ -29,21 +29,7 @@ from flask import Flask
 app = Flask(__name__)
 
 @app.route('/time')
-# <start remove>
-def example1():
-    time = datetime.datetime.now()
 
-    response = """<!DOCTYPE html>
-                  <html>
-                      <p>
-                        Current Date and Time: {}
-                      </p>
-                      <a href="/time">Refresh</a>
-                  </html>
-                  """
-
-    return response.format(time)
-# <end remove>
 
 
 

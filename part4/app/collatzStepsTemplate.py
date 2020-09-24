@@ -29,9 +29,7 @@ def collatz_template():
             n = n * 3 + 1
         steps.append(n)
 
-    # student code starts here
-    return render_template("collatz.html",n=original,steps=steps)
-    # student code end here
+
 
 
 
