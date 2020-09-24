@@ -17,7 +17,7 @@
     1. Define a new function and get the current time from the datatime object
     2. Create a simple html page that shows the current time with a refresh link(See part1.jpg for what your output should look like)
     3. Find the public ip of your instance by using the following command: dig +short myip.opendns.com @resolver1.opendns.com
-    3. You can see your webpage at the following example url (replace this ip with the one you got from step 3) http://3.231.155.231:5000/time 
+    4. You can see your webpage at the following example url (replace this ip with the one you got from step 3) http://3.231.155.231:5000/time
 
 
 """
