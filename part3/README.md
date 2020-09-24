@@ -5,7 +5,7 @@
 For Part3 you will create an html form to allow the suer to submit an integer value rather than using the URL paramater as you did in Part2. 
 ```
 
-##How to run this app:
+## How to run this app:
 ```
 Option 1:
 
@@ -16,7 +16,7 @@ Option 1:
 Option 2: Click the green run button.
 ```    
     
-##Instructions:
+## Instructions:
 ```
 1. Complete the function collatz_form() in the file collatzStepsForm.py by creating html code with a form and return it to the user so that they can enter the integer.
 2. This form should point to the url: /collatz as defined in the collatzSteps.py.
