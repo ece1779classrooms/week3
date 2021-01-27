@@ -9,7 +9,6 @@ from app import webapp
 @webapp.route('/collatz_form',methods=['GET'])
 def collatz_form():
 
-# student code starts here
     html = """
         <!DOCTYPE html>
         <head>
@@ -17,13 +16,19 @@ def collatz_form():
         </head>
         <body>
             <form method='get' action='/collatz'>
+            
+            <!-- student code starts here -->
+
                 <label>N</label>
                     <input type='text' name='n'>
                 <input type='submit' value='Show collatz series'>
+
+            <!-- end of student code -->
+
+
             </form>
         <body>
     </html>
     """
     return html
-#end of student code
 

@@ -45,6 +45,9 @@ def collatz():
         return "Error! All inputs most be of type int"
 
     n = original = int(request.args.get('n'))
+
+#end of student code
+
     
     steps = []
     
@@ -72,7 +75,6 @@ def collatz():
 
     return html.format(original,series,len(steps))
 
-#end of student code
 
 app.run(host='0.0.0.0')
     

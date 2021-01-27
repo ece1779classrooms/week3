@@ -29,9 +29,12 @@ from flask import Flask
 app = Flask(__name__)
 
 @app.route('/time')
-# <start remove>
 def example1():
-    time = datetime.datetime.now()
+    
+    # use the datetime python module to obtain the current time
+    # and store it in variable "time"
+    time = 0
+    
 
     response = """<!DOCTYPE html>
                   <html>
@@ -43,7 +46,6 @@ def example1():
                   """
 
     return response.format(time)
-# <end remove>
 
 
 

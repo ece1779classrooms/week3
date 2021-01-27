@@ -2,7 +2,7 @@
     
 ## Description:
 ```
-For Part3 you will create an html form to allow the suer to submit an integer value rather than using the URL paramater as you did in Part2. 
+For Part3 you will create an html form to allow the user to submit an integer value rather than using the URL paramater as you did in Part2. 
 ```
 
 ##How to run this app:
