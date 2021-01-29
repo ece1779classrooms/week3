@@ -17,7 +17,7 @@ def collatz():
 
 # student code starts here
 
-    n = 
+    n =
 
 #end of student code
 
