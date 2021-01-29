@@ -39,7 +39,7 @@ def collatz():
     html = """
         <!DOCTYPE html >
             <body>
-                <p>Collantz series for {0} </p>
+                <p>Collatz series for {0} </p>
                 <p>{1}</p>
                 <p>Number of steps = {2}</p>
             </body>

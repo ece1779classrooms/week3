@@ -2,7 +2,7 @@
     
 ## Description:
 ```
-For Part 2 you will complete the code in collatzSteps so that when you type the following url(see part2.jpg) into your browser. Your flask app will calculate the collatz value for the integer that you specify.
+For Part 2 you will complete the code in collatzSteps so that when you type the following url(see part2.jpg) into your browse your flask app will calculate the collatz value for the integer that you specify.
 
 See the following documentation on how to use the Flask request object.
 

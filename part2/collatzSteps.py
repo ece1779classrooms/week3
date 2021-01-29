@@ -17,10 +17,7 @@ def collatz():
 
 # student code starts here
 
-    if request.args.get('n').isdigit() == False:
-        return "Error! All inputs most be of type int"
-
-    n = original = int(request.args.get('n'))
+    n = 
 
 #end of student code
 
@@ -42,7 +39,7 @@ def collatz():
     html = """
         <!DOCTYPE html >
             <body>
-                <p>Collantz series for {0} </p>
+                <p>Collatz series for {0} </p>
                 <p>{1}</p>
                 <p>Number of steps = {2}</p>
             </body>
