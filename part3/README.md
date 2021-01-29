@@ -2,8 +2,21 @@
     
 ## Description:
 ```
-For Part3 you will create an html form to allow the user to submit an integer value rather than using the URL paramater as you did in Part2. 
+For Part 3 you will complete the html form to allow the user to submit an integer value rather than using the URL paramater as you did in Part 2. 
 ```
+
+   
+##Instructions:
+```
+1. Complete the body of the form in collatzStepsForm.py so that the user can input the integer.
+2. Find the public ip of your instance by using the following command: 
+
+dig +short myip.opendns.com @resolver1.opendns.com
+
+
+3. You can see your webpage at the following example url (replace this ip with the one you got from step 3) http://3.231.155.231:5000/ 
+```
+
 
 ##How to run this app:
 ```
@@ -16,11 +29,3 @@ Option 1:
 
 Option 2: Click the green run button.
 ```    
-    
-##Instructions:
-```
-1. Complete the function collatz_form() in the file collatzStepsForm.py by creating html code with a form and return it to the user so that they can enter the integer.
-2. This form should point to the url: /collatz as defined in the collatzSteps.py.
-3. Find the public ip of your instance by using the following command: dig +short myip.opendns.com @resolver1.opendns.com
-4. You can see your webpage at the following example url (replace this ip with the one you got from step 3) http://3.231.155.231:5000/ 
-```
