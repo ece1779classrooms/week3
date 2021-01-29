@@ -19,9 +19,6 @@ def collatz_form():
             
             <!-- student code starts here -->
 
-                <label>N</label>
-                    <input type='text' name='n'>
-                <input type='submit' value='Show collatz series'>
 
             <!-- end of student code -->
 
