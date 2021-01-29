@@ -10,7 +10,7 @@ https://flask.palletsprojects.com/en/1.1.x/api/?highlight=request#flask.request
    
 ```
 
-##How to run this app:
+## How to run this app:
 ```
 Option 1:
 
@@ -21,7 +21,7 @@ Option 1:
 Option 2: Click the green run button.
 ```    
     
-##Instructions:
+## Instructions:
 ```
 1. Your task is to compelte the code in collatzSteps.py buy parsing the integer from the url and setting the variable "n" with this value. Use the request object to get the number passed in via the url. Make sure to validate that the input is an integer or throw an error.
 2. Find the public ip of your instance by using the following command: 

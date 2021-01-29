@@ -13,7 +13,7 @@ https://www.geeksforgeeks.org/python-using-for-loop-in-flask/
         
     
     
-##Instructions:
+## Instructions:
 ```
 1. Modify collatz.html by adding the contents of the loop so that template will display the collatz steps (example of what your output should look like part4.jpg)
 2. Find the public ip of your instance by using the following command: 
@@ -25,7 +25,7 @@ dig +short myip.opendns.com @resolver1.opendns.com
 ```
 
 
-##How to run this app:
+## How to run this app:
 ```
 Option 1:
 

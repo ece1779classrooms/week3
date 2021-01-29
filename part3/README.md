@@ -6,7 +6,7 @@ For Part 3 you will complete the html form to allow the user to submit an intege
 ```
 
    
-##Instructions:
+## Instructions:
 ```
 1. Complete the body of the form in collatzStepsForm.py so that the user can input the integer.
 2. Find the public ip of your instance by using the following command: 
@@ -18,7 +18,7 @@ dig +short myip.opendns.com @resolver1.opendns.com
 ```
 
 
-##How to run this app:
+## How to run this app:
 ```
 Option 1:
 
